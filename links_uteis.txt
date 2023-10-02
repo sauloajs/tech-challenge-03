@@ -1,0 +1,3 @@
+questionario - https://metadados.ibge.gov.br/consulta/estatisticos/operacoes-estatisticas/DP
+pyspark - https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/index.html
+download dos dados - https://www.ibge.gov.br/estatisticas/investigacoes-experimentais/estatisticas-experimentais/27947-divulgacao-mensal-pnadcovid2.html?edicao=29765&t=downloads
